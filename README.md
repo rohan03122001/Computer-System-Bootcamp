@@ -1,3 +1,2 @@
-# Computer-System-Bootcamp
-CSERL BOOTCAMP 2022
+# CSERL BOOTCAMP 2022
 
