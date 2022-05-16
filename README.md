@@ -1,4 +1,3 @@
 # Computer-System-Bootcamp
+CSERL BOOTCAMP 2022
 
-This C program contains code for Pre-emptive Shortest job first Scheduling algorithm (SJF)
-Output contains Gantt chart, turnaround time, waiting time 
